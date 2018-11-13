@@ -107,6 +107,9 @@ h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
 	text-rendering: optimizeLegibility;
 	margin-bottom: 2.1rem;
 }
+a {
+	text-decoration: underline;
+}
 h3, .h03, h4, .h04 {
 	margin-bottom: 1.8rem;
 }
@@ -1088,6 +1091,7 @@ header {
 	width: 100%;
 	min-height: 66px;
 	z-index: 600;
+	background-color: black;
 }
 header .row {
 	position: relative;
@@ -1117,10 +1121,10 @@ header .logo a {
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 92px;
-	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 92px 15px;
+	width: 115px;
+	height: 30px;
+	background: url("../images/january.png") no-repeat center;
+	background-size: 115px 30px;
 }
 
 /**
