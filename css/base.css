@@ -1,4 +1,4 @@
-/**
+*
  * =================================================================== 
  *
  *  Kards v1.0 Base Stylesheet
@@ -29,6 +29,7 @@ html {
 body {
 	margin: 0;
 }
+
 
 article,
 aside,
@@ -868,4 +869,4 @@ textarea {
 	text-align: center;
 }
 
-/*# sourceMappingURL=base.css.map */
+/*# sourceMappingURL=base.css.map 
